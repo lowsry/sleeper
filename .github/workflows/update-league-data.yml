@@ -71,8 +71,8 @@ jobs:
       - name: Fetch Sleeper data
         if: steps.refresh.outputs.run == 'true'
         env:
-          SLEEPER_LEAGUE_ID: '1400190366010863616'
-          SLEEPER_USERNAME: 'nibra180'
+          SLEEPER_LEAGUE_ID: ${{ secrets.SLEEPER_LEAGUE_ID }}
+          SLEEPER_USERNAME: ${{ secrets.SLEEPER_USERNAME }}
         run: npm run fetch
 
       - name: Commit updated data
