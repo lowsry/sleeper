@@ -1,8 +1,12 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 
-const LEAGUE_ID = process.env.SLEEPER_LEAGUE_ID ?? '1400190366010863616';
-const MY_USERNAME = process.env.SLEEPER_USERNAME ?? 'nibra180';
+const LEAGUE_ID = process.env.SLEEPER_LEAGUE_ID;
+const MY_USERNAME = process.env.SLEEPER_USERNAME;
 const API = 'https://api.sleeper.app/v1';
+
+if (!LEAGUE_ID || !MY_USERNAME) {
+  throw new Error('SLEEPER_LEAGUE_ID and SLEEPER_USERNAME must be set');
+}
 
 async function get(path) {
   const response = await fetch(`${API}${path}`, {
