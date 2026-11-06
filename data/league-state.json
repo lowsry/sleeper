@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:25:09.369Z",
+  "generatedAt": "2026-11-06T13:07:41.417Z",
   "source": {
     "provider": "Sleeper API",
     "leagueId": "1400190366010863616",
@@ -468,8 +468,8 @@
         "position": "WR",
         "team": "TB",
         "status": "Active",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
         "injuryNotes": null,
         "fantasyPositions": [
           "WR"
@@ -701,8 +701,8 @@
         "position": "WR",
         "team": "TB",
         "status": "Active",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
         "injuryNotes": null,
         "fantasyPositions": [
           "WR"
@@ -910,7 +910,7 @@
         "teamName": "Chase & Pray",
         "username": null,
         "displayName": "EliHoF",
-        "points": 0,
+        "points": 10.2,
         "projectedPoints": null,
         "starters": [
           {
@@ -1130,8 +1130,8 @@
             "position": "WR",
             "team": "TB",
             "status": "Active",
-            "injuryStatus": "Questionable",
-            "injuryBodyPart": "Foot",
+            "injuryStatus": null,
+            "injuryBodyPart": null,
             "injuryNotes": null,
             "fantasyPositions": [
               "WR"
@@ -1311,8 +1311,8 @@
             "position": "WR",
             "team": "KC",
             "status": "Active",
-            "injuryStatus": "Questionable",
-            "injuryBodyPart": "Hamstring",
+            "injuryStatus": null,
+            "injuryBodyPart": null,
             "injuryNotes": null,
             "fantasyPositions": [
               "WR"
@@ -1557,7 +1557,7 @@
           "teamName": "Chase & Pray",
           "username": null,
           "displayName": "EliHoF",
-          "points": 0,
+          "points": 10.2,
           "projectedPoints": null,
           "starters": [
             {
@@ -1777,8 +1777,8 @@
               "position": "WR",
               "team": "TB",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Foot",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "WR"
@@ -1958,8 +1958,8 @@
               "position": "WR",
               "team": "KC",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Hamstring",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "WR"
@@ -2203,7 +2203,7 @@
           "teamName": "Buckys Backfield",
           "username": null,
           "displayName": "NewYorkMetts",
-          "points": 0,
+          "points": 11,
           "projectedPoints": null,
           "starters": [
             {
@@ -2271,8 +2271,8 @@
               "position": "WR",
               "team": "NYG",
               "status": "Active",
-              "injuryStatus": null,
-              "injuryBodyPart": null,
+              "injuryStatus": "Questionable",
+              "injuryBodyPart": "Undisclosed",
               "injuryNotes": null,
               "fantasyPositions": [
                 "WR"
@@ -2824,7 +2824,7 @@
           "teamName": "Ragenus",
           "username": null,
           "displayName": "Ragenus",
-          "points": 0,
+          "points": 35.58,
           "projectedPoints": null,
           "starters": [
             {
@@ -2873,8 +2873,8 @@
               "position": "RB",
               "team": "JAX",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Ankle",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "RB"
@@ -3121,7 +3121,7 @@
                 "WR"
               ],
               "depthChartPosition": "SWR",
-              "depthChartOrder": 2,
+              "depthChartOrder": 1,
               "yearsExp": 3,
               "age": 25
             }
@@ -3403,8 +3403,8 @@
               "position": "RB",
               "team": "NYJ",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Quadriceps",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "RB"
@@ -3543,8 +3543,8 @@
               "position": "TE",
               "team": "KC",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Ankle",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "TE"
@@ -3670,9 +3670,9 @@
               "position": "QB",
               "team": "BAL",
               "status": "Inactive",
-              "injuryStatus": "Out",
+              "injuryStatus": "IR",
               "injuryBodyPart": "Thumb",
-              "injuryNotes": null,
+              "injuryNotes": "Surgery",
               "fantasyPositions": [
                 "QB"
               ],
@@ -3715,7 +3715,7 @@
                 "WR"
               ],
               "depthChartPosition": "LWR",
-              "depthChartOrder": 1,
+              "depthChartOrder": 3,
               "yearsExp": 5,
               "age": 27
             },
@@ -3947,7 +3947,7 @@
                 "TE"
               ],
               "depthChartPosition": "TE",
-              "depthChartOrder": 1,
+              "depthChartOrder": 2,
               "yearsExp": 10,
               "age": 31
             },
@@ -4039,7 +4039,7 @@
           "teamName": "Xyz",
           "username": null,
           "displayName": "Xyt",
-          "points": 0,
+          "points": 5.58,
           "projectedPoints": null,
           "starters": [
             {
@@ -4279,7 +4279,7 @@
                 "QB"
               ],
               "depthChartPosition": "QB",
-              "depthChartOrder": 3,
+              "depthChartOrder": 2,
               "yearsExp": 6,
               "age": 28
             },
@@ -4291,8 +4291,8 @@
               "position": "RB",
               "team": "TB",
               "status": "Active",
-              "injuryStatus": "Questionable",
-              "injuryBodyPart": "Hip",
+              "injuryStatus": null,
+              "injuryBodyPart": null,
               "injuryNotes": null,
               "fantasyPositions": [
                 "RB"
@@ -4347,7 +4347,7 @@
           "teamName": "Polk High 33",
           "username": null,
           "displayName": "nibra180",
-          "points": 0,
+          "points": 3.8,
           "projectedPoints": null,
           "starters": [
             {
@@ -4561,8 +4561,8 @@
               "position": "TE",
               "team": "CLE",
               "status": "Active",
-              "injuryStatus": null,
-              "injuryBodyPart": null,
+              "injuryStatus": "Questionable",
+              "injuryBodyPart": "Groin",
               "injuryNotes": null,
               "fantasyPositions": [
                 "TE"
@@ -4606,7 +4606,7 @@
                 "QB"
               ],
               "depthChartPosition": "QB",
-              "depthChartOrder": 1,
+              "depthChartOrder": 2,
               "yearsExp": 7,
               "age": 29
             },
@@ -4625,7 +4625,7 @@
                 "WR"
               ],
               "depthChartPosition": "LWR",
-              "depthChartOrder": 1,
+              "depthChartOrder": 3,
               "yearsExp": 7,
               "age": 29
             },
@@ -4766,8 +4766,8 @@
               "position": "TE",
               "team": "BUF",
               "status": "Active",
-              "injuryStatus": null,
-              "injuryBodyPart": null,
+              "injuryStatus": "Questionable",
+              "injuryBodyPart": "Chest",
               "injuryNotes": null,
               "fantasyPositions": [
                 "TE"
@@ -4874,8 +4874,8 @@
               "position": "WR",
               "team": "BUF",
               "status": "Active",
-              "injuryStatus": null,
-              "injuryBodyPart": null,
+              "injuryStatus": "Questionable",
+              "injuryBodyPart": "Shoulder",
               "injuryNotes": null,
               "fantasyPositions": [
                 "WR"
@@ -5124,10 +5124,10 @@
               "age": 23
             },
             {
-              "id": "CLE",
-              "name": "CLE D/ST",
+              "id": "CHI",
+              "name": "CHI D/ST",
               "position": "DEF",
-              "team": "CLE",
+              "team": "CHI",
               "status": "Active",
               "injuryStatus": null,
               "fantasyPositions": [
@@ -5144,8 +5144,8 @@
               "position": "RB",
               "team": "GB",
               "status": "Active",
-              "injuryStatus": null,
-              "injuryBodyPart": null,
+              "injuryStatus": "Questionable",
+              "injuryBodyPart": "Knee",
               "injuryNotes": null,
               "fantasyPositions": [
                 "RB"
@@ -5678,8 +5678,8 @@
           "position": "WR",
           "team": "TB",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Foot",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -5911,8 +5911,8 @@
           "position": "WR",
           "team": "TB",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Foot",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -6193,8 +6193,8 @@
           "position": "WR",
           "team": "NYG",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Undisclosed",
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -6458,8 +6458,8 @@
           "position": "WR",
           "team": "NYG",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Undisclosed",
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -6810,8 +6810,8 @@
           "position": "WR",
           "team": "KC",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hamstring",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -7056,8 +7056,8 @@
           "position": "WR",
           "team": "KC",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hamstring",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -7408,8 +7408,8 @@
           "position": "RB",
           "team": "JAX",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Ankle",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -7637,7 +7637,7 @@
             "WR"
           ],
           "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
+          "depthChartOrder": 1,
           "yearsExp": 3,
           "age": 25
         }
@@ -7768,8 +7768,8 @@
           "position": "RB",
           "team": "JAX",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Ankle",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -7946,7 +7946,7 @@
             "WR"
           ],
           "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
+          "depthChartOrder": 1,
           "yearsExp": 3,
           "age": 25
         },
@@ -8082,8 +8082,8 @@
           "position": "TE",
           "team": "KC",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Ankle",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -8190,9 +8190,9 @@
           "position": "QB",
           "team": "BAL",
           "status": "Inactive",
-          "injuryStatus": "Out",
+          "injuryStatus": "IR",
           "injuryBodyPart": "Thumb",
-          "injuryNotes": null,
+          "injuryNotes": "Surgery",
           "fantasyPositions": [
             "QB"
           ],
@@ -8235,7 +8235,7 @@
             "WR"
           ],
           "depthChartPosition": "LWR",
-          "depthChartOrder": 1,
+          "depthChartOrder": 3,
           "yearsExp": 5,
           "age": 27
         },
@@ -8366,8 +8366,8 @@
           "position": "TE",
           "team": "KC",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Ankle",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -8404,9 +8404,9 @@
           "position": "QB",
           "team": "BAL",
           "status": "Inactive",
-          "injuryStatus": "Out",
+          "injuryStatus": "IR",
           "injuryBodyPart": "Thumb",
-          "injuryNotes": null,
+          "injuryNotes": "Surgery",
           "fantasyPositions": [
             "QB"
           ],
@@ -8468,7 +8468,7 @@
             "WR"
           ],
           "depthChartPosition": "LWR",
-          "depthChartOrder": 1,
+          "depthChartOrder": 3,
           "yearsExp": 5,
           "age": 27
         },
@@ -8826,8 +8826,8 @@
           "position": "RB",
           "team": "TB",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hip",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -8892,7 +8892,7 @@
             "QB"
           ],
           "depthChartPosition": "QB",
-          "depthChartOrder": 3,
+          "depthChartOrder": 2,
           "yearsExp": 6,
           "age": 28
         }
@@ -9047,7 +9047,7 @@
             "QB"
           ],
           "depthChartPosition": "QB",
-          "depthChartOrder": 3,
+          "depthChartOrder": 2,
           "yearsExp": 6,
           "age": 28
         },
@@ -9078,8 +9078,8 @@
           "position": "RB",
           "team": "TB",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hip",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -9316,8 +9316,8 @@
           "position": "TE",
           "team": "BUF",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Chest",
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -9424,8 +9424,8 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Shoulder",
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -9524,8 +9524,8 @@
           "position": "TE",
           "team": "BUF",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Chest",
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -9600,8 +9600,8 @@
           "position": "WR",
           "team": "BUF",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Shoulder",
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
@@ -9983,10 +9983,10 @@
           "age": 23
         },
         {
-          "id": "CLE",
-          "name": "CLE D/ST",
+          "id": "CHI",
+          "name": "CHI D/ST",
           "position": "DEF",
-          "team": "CLE",
+          "team": "CHI",
           "status": "Active",
           "injuryStatus": null,
           "fantasyPositions": [
@@ -10003,8 +10003,8 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Knee",
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -10141,8 +10141,8 @@
           "position": "RB",
           "team": "GB",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Knee",
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -10419,10 +10419,10 @@
           "age": 27
         },
         {
-          "id": "CLE",
-          "name": "CLE D/ST",
+          "id": "CHI",
+          "name": "CHI D/ST",
           "position": "DEF",
-          "team": "CLE",
+          "team": "CHI",
           "status": "Active",
           "injuryStatus": null,
           "fantasyPositions": [
@@ -10557,7 +10557,7 @@
             "TE"
           ],
           "depthChartPosition": "TE",
-          "depthChartOrder": 1,
+          "depthChartOrder": 2,
           "yearsExp": 10,
           "age": 31
         },
@@ -10821,7 +10821,7 @@
             "TE"
           ],
           "depthChartPosition": "TE",
-          "depthChartOrder": 1,
+          "depthChartOrder": 2,
           "yearsExp": 10,
           "age": 31
         },
@@ -11217,8 +11217,8 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Groin",
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -11262,7 +11262,7 @@
             "QB"
           ],
           "depthChartPosition": "QB",
-          "depthChartOrder": 1,
+          "depthChartOrder": 2,
           "yearsExp": 7,
           "age": 29
         },
@@ -11281,7 +11281,7 @@
             "WR"
           ],
           "depthChartPosition": "LWR",
-          "depthChartOrder": 1,
+          "depthChartOrder": 3,
           "yearsExp": 7,
           "age": 29
         },
@@ -11431,8 +11431,8 @@
           "position": "TE",
           "team": "CLE",
           "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Groin",
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
@@ -11476,7 +11476,7 @@
             "QB"
           ],
           "depthChartPosition": "QB",
-          "depthChartOrder": 1,
+          "depthChartOrder": 2,
           "yearsExp": 7,
           "age": 29
         },
@@ -11495,7 +11495,7 @@
             "WR"
           ],
           "depthChartPosition": "LWR",
-          "depthChartOrder": 1,
+          "depthChartOrder": 3,
           "yearsExp": 7,
           "age": 29
         },
@@ -11891,8 +11891,8 @@
           "position": "RB",
           "team": "NYJ",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Quadriceps",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -12173,8 +12173,8 @@
           "position": "RB",
           "team": "NYJ",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Quadriceps",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "RB"
@@ -12846,6 +12846,55 @@
     }
   ],
   "recentTransactions": [
+    {
+      "id": "1424305222292983808",
+      "type": "free_agent",
+      "status": "complete",
+      "createdAt": "2026-11-06T05:35:36.607Z",
+      "week": 9,
+      "rosterIds": [
+        8
+      ],
+      "teams": [
+        "MatthiasvilleMagic"
+      ],
+      "adds": [
+        {
+          "player": {
+            "id": "CHI",
+            "name": "CHI D/ST",
+            "position": "DEF",
+            "team": "CHI",
+            "status": "Active",
+            "injuryStatus": null,
+            "fantasyPositions": [
+              "DEF"
+            ]
+          },
+          "rosterId": 8,
+          "team": "MatthiasvilleMagic"
+        }
+      ],
+      "drops": [
+        {
+          "player": {
+            "id": "CLE",
+            "name": "CLE D/ST",
+            "position": "DEF",
+            "team": "CLE",
+            "status": "Active",
+            "injuryStatus": null,
+            "fantasyPositions": [
+              "DEF"
+            ]
+          },
+          "rosterId": 8,
+          "team": "MatthiasvilleMagic"
+        }
+      ],
+      "waiverBid": null,
+      "draftPicks": []
+    },
     {
       "id": "1423735729892204544",
       "type": "free_agent",
@@ -13927,7 +13976,7 @@
               "WR"
             ],
             "depthChartPosition": "SWR",
-            "depthChartOrder": 2,
+            "depthChartOrder": 1,
             "yearsExp": 3,
             "age": 25
           },
@@ -16157,18 +16206,18 @@
         "source": "roster_endpoint",
         "slot": "starter"
       },
+      "CHI": {
+        "rosterId": 8,
+        "teamName": "MatthiasvilleMagic",
+        "displayName": "MatthiasvilleMagic",
+        "username": null,
+        "source": "completed_transaction",
+        "slot": "bench"
+      },
       "CIN": {
         "rosterId": 10,
         "teamName": "Polk High 33",
         "displayName": "nibra180",
-        "username": null,
-        "source": "roster_endpoint",
-        "slot": "starter"
-      },
-      "CLE": {
-        "rosterId": 8,
-        "teamName": "MatthiasvilleMagic",
-        "displayName": "MatthiasvilleMagic",
         "username": null,
         "source": "roster_endpoint",
         "slot": "starter"
@@ -16259,69 +16308,7 @@
   "trending": {
     "adds": [
       {
-        "count": 660872,
-        "player": {
-          "id": "11625",
-          "name": "Adonai Mitchell",
-          "firstName": "Adonai",
-          "lastName": "Mitchell",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 2,
-          "yearsExp": 2,
-          "age": 24
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 631566,
-        "player": {
-          "id": "6130",
-          "name": "Devin Singletary",
-          "firstName": "Devin",
-          "lastName": "Singletary",
-          "position": "RB",
-          "team": "NYG",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 7,
-          "age": 29
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 1,
-          "teamName": "Chase & Pray",
-          "displayName": "EliHoF",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 536994,
+        "count": 501444,
         "player": {
           "id": "10219",
           "name": "Chris Rodriguez Jr.",
@@ -16352,1017 +16339,7 @@
         }
       },
       {
-        "count": 506565,
-        "player": {
-          "id": "DET",
-          "name": "DET D/ST",
-          "position": "DEF",
-          "team": "DET",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 469256,
-        "player": {
-          "id": "11557",
-          "name": "Joe Milton",
-          "firstName": "Joe",
-          "lastName": "Milton",
-          "position": "QB",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 2,
-          "age": 26
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 358911,
-        "player": {
-          "id": "8161",
-          "name": "Malik Willis",
-          "firstName": "Malik",
-          "lastName": "Willis",
-          "position": "QB",
-          "team": "MIA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 4,
-          "age": 27
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 346035,
-        "player": {
-          "id": "NO",
-          "name": "NO D/ST",
-          "position": "DEF",
-          "team": "NO",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 305571,
-        "player": {
-          "id": "2020",
-          "name": "Cairo Santos",
-          "firstName": "Cairo",
-          "lastName": "Santos",
-          "position": "K",
-          "team": "CHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 12,
-          "age": 34
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 302733,
-        "player": {
-          "id": "13337",
-          "name": "Emmett Johnson",
-          "firstName": "Emmett",
-          "lastName": "Johnson",
-          "position": "RB",
-          "team": "KC",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 4,
-          "teamName": "Ragenus",
-          "displayName": "Ragenus",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 255500,
-        "player": {
-          "id": "7042",
-          "name": "Tyler Bass",
-          "firstName": "Tyler",
-          "lastName": "Bass",
-          "position": "K",
-          "team": "BUF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 6,
-          "age": 29
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 7,
-          "teamName": "Windhorst Monkeys",
-          "displayName": "Bernd3",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 217310,
-        "player": {
-          "id": "HOU",
-          "name": "HOU D/ST",
-          "position": "DEF",
-          "team": "HOU",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 214432,
-        "player": {
-          "id": "12524",
-          "name": "Shedeur Sanders",
-          "firstName": "Shedeur",
-          "lastName": "Sanders",
-          "position": "QB",
-          "team": "CLE",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 1,
-          "age": 24
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 201400,
-        "player": {
-          "id": "4993",
-          "name": "Mike Gesicki",
-          "firstName": "Mike",
-          "lastName": "Gesicki",
-          "position": "TE",
-          "team": "CIN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 8,
-          "age": 31
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 12,
-          "teamName": "LastrupMudDogs",
-          "displayName": "LastrupMudDogs",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 188685,
-        "player": {
-          "id": "7561",
-          "name": "Elijah Mitchell",
-          "firstName": "Elijah",
-          "lastName": "Mitchell",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": null,
-          "depthChartOrder": null,
-          "yearsExp": 5,
-          "age": 28
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 178101,
-        "player": {
-          "id": "13286",
-          "name": "Jadarian Price",
-          "firstName": "Jadarian",
-          "lastName": "Price",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 171564,
-        "player": {
-          "id": "NYG",
-          "name": "NYG D/ST",
-          "position": "DEF",
-          "team": "NYG",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 171420,
-        "player": {
-          "id": "6011",
-          "name": "Gardner Minshew II",
-          "firstName": "Gardner",
-          "lastName": "Minshew II",
-          "position": "QB",
-          "team": "ARI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 30
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 164424,
-        "player": {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "firstName": "Ryan",
-          "lastName": "Flournoy",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 2,
-          "age": 27
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 152480,
-        "player": {
-          "id": "11610",
-          "name": "Malik Washington",
-          "firstName": "Malik",
-          "lastName": "Washington",
-          "position": "WR",
-          "team": "MIA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 1,
-          "yearsExp": 2,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 6,
-          "teamName": "Xyz",
-          "displayName": "Xyt",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 141945,
-        "player": {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "firstName": "Dylan",
-          "lastName": "Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 1,
-          "age": 22
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 4,
-          "teamName": "Ragenus",
-          "displayName": "Ragenus",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 127915,
-        "player": {
-          "id": "8132",
-          "name": "Tyler Allgeier",
-          "firstName": "Tyler",
-          "lastName": "Allgeier",
-          "position": "RB",
-          "team": "ARI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 1,
-          "yearsExp": 4,
-          "age": 26
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 5,
-          "teamName": "Gronbraunski",
-          "displayName": "Gronbraunski",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 119934,
-        "player": {
-          "id": "5854",
-          "name": "Drew Lock",
-          "firstName": "Drew",
-          "lastName": "Lock",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Elbow",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 29
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 112232,
-        "player": {
-          "id": "4035",
-          "name": "Alvin Kamara",
-          "firstName": "Alvin",
-          "lastName": "Kamara",
-          "position": "RB",
-          "team": "NO",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Back",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 1,
-          "yearsExp": 9,
-          "age": 31
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 7,
-          "teamName": "Windhorst Monkeys",
-          "displayName": "Bernd3",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 108416,
-        "player": {
-          "id": "1166",
-          "name": "Kirk Cousins",
-          "firstName": "Kirk",
-          "lastName": "Cousins",
-          "position": "QB",
-          "team": "LV",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 14,
-          "age": 38
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 103520,
-        "player": {
-          "id": "1479",
-          "name": "Keenan Allen",
-          "firstName": "Keenan",
-          "lastName": "Allen",
-          "position": "WR",
-          "team": "IND",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 2,
-          "yearsExp": 13,
-          "age": 34
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 4,
-          "teamName": "Ragenus",
-          "displayName": "Ragenus",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 103131,
-        "player": {
-          "id": "11729",
-          "name": "Sione Vaki",
-          "firstName": "Sione",
-          "lastName": "Vaki",
-          "position": "RB",
-          "team": "DET",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 2,
-          "age": 25
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 103047,
-        "player": {
-          "id": "8135",
-          "name": "Treylon Burks",
-          "firstName": "Treylon",
-          "lastName": "Burks",
-          "position": "WR",
-          "team": "WAS",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Foot",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 3,
-          "yearsExp": 4,
-          "age": 26
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 93765,
-        "player": {
-          "id": "13414",
-          "name": "Kaelon Black",
-          "firstName": "Kaelon",
-          "lastName": "Black",
-          "position": "RB",
-          "team": "SF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 88319,
-        "player": {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "firstName": "C.J.",
-          "lastName": "Stroud",
-          "position": "QB",
-          "team": "HOU",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 3,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 9,
-          "teamName": "ParosPower",
-          "displayName": "ParosPower",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 87973,
-        "player": {
-          "id": "CHI",
-          "name": "CHI D/ST",
-          "position": "DEF",
-          "team": "CHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 82520,
-        "player": {
-          "id": "12487",
-          "name": "Terrance Ferguson",
-          "firstName": "Terrance",
-          "lastName": "Ferguson",
-          "position": "TE",
-          "team": "LAR",
-          "status": "Inactive",
-          "injuryStatus": "IR",
-          "injuryBodyPart": "Ankle",
-          "injuryNotes": "Sprain",
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 5,
-          "yearsExp": 1,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 77664,
-        "player": {
-          "id": "SF",
-          "name": "SF D/ST",
-          "position": "DEF",
-          "team": "SF",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 75102,
-        "player": {
-          "id": "JAX",
-          "name": "JAX D/ST",
-          "position": "DEF",
-          "team": "JAX",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 74234,
-        "player": {
-          "id": "9757",
-          "name": "Kendre Miller",
-          "firstName": "Kendre",
-          "lastName": "Miller",
-          "position": "RB",
-          "team": "NO",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 3,
-          "age": 24
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 72968,
-        "player": {
-          "id": "11539",
-          "name": "Jake Bates",
-          "firstName": "Jake",
-          "lastName": "Bates",
-          "position": "K",
-          "team": "DET",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 3,
-          "age": 27
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 10,
-          "teamName": "Polk High 33",
-          "displayName": "nibra180",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 72088,
-        "player": {
-          "id": "6650",
-          "name": "Chase McLaughlin",
-          "firstName": "Chase",
-          "lastName": "McLaughlin",
-          "position": "K",
-          "team": "TB",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 30
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 12,
-          "teamName": "LastrupMudDogs",
-          "displayName": "LastrupMudDogs",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 70816,
-        "player": {
-          "id": "7567",
-          "name": "Kenny Gainwell",
-          "firstName": "Kenny",
-          "lastName": "Gainwell",
-          "position": "RB",
-          "team": "TB",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hip",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 5,
-          "age": 27
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 6,
-          "teamName": "Xyz",
-          "displayName": "Xyt",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 70160,
-        "player": {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "firstName": "Caleb",
-          "lastName": "Douglas",
-          "position": "WR",
-          "team": "MIA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 1,
-          "teamName": "Chase & Pray",
-          "displayName": "EliHoF",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 66213,
-        "player": {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "firstName": "Michael",
-          "lastName": "Mayer",
-          "position": "TE",
-          "team": "LV",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 2,
-          "yearsExp": 3,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 6,
-          "teamName": "Xyz",
-          "displayName": "Xyt",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 61680,
-        "player": {
-          "id": "11565",
-          "name": "J.J. McCarthy",
-          "firstName": "J.J.",
-          "lastName": "McCarthy",
-          "position": "QB",
-          "team": "NYG",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 2,
-          "age": 23
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 60666,
-        "player": {
-          "id": "5189",
-          "name": "Eddy Pineiro",
-          "firstName": "Eddy",
-          "lastName": "Pineiro",
-          "position": "K",
-          "team": "SF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 8,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 58350,
+        "count": 477684,
         "player": {
           "id": "3161",
           "name": "Carson Wentz",
@@ -17378,7 +16355,7 @@
             "QB"
           ],
           "depthChartPosition": "QB",
-          "depthChartOrder": 2,
+          "depthChartOrder": 1,
           "yearsExp": 10,
           "age": 33
         },
@@ -17386,122 +16363,12 @@
         "ownership": null
       },
       {
-        "count": 57376,
+        "count": 374184,
         "player": {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "firstName": "Seth",
-          "lastName": "McGowan",
-          "position": "RB",
-          "team": "IND",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 1,
-          "teamName": "Chase & Pray",
-          "displayName": "EliHoF",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 56979,
-        "player": {
-          "id": "12540",
-          "name": "Chimere Dike",
-          "firstName": "Chimere",
-          "lastName": "Dike",
-          "position": "WR",
-          "team": "TEN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 4,
-          "yearsExp": 1,
-          "age": 24
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 56268,
-        "player": {
-          "id": "8134",
-          "name": "Khalil Shakir",
-          "firstName": "Khalil",
-          "lastName": "Shakir",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
-          "yearsExp": 4,
-          "age": 26
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 10,
-          "teamName": "Polk High 33",
-          "displayName": "nibra180",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 55700,
-        "player": {
-          "id": "4663",
-          "name": "Austin Ekeler",
-          "firstName": "Austin",
-          "lastName": "Ekeler",
-          "position": "RB",
-          "team": "WAS",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 9,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 51670,
-        "player": {
-          "id": "TB",
-          "name": "TB D/ST",
+          "id": "DET",
+          "name": "DET D/ST",
           "position": "DEF",
-          "team": "TB",
+          "team": "DET",
           "status": "Active",
           "injuryStatus": null,
           "fantasyPositions": [
@@ -17512,1171 +16379,7 @@
         "ownership": null
       },
       {
-        "count": 48440,
-        "player": {
-          "id": "13276",
-          "name": "Omar Cooper Jr.",
-          "firstName": "Omar",
-          "lastName": "Cooper Jr.",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 0,
-          "age": 22
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 47876,
-        "player": {
-          "id": "3451",
-          "name": "Ka'imi Fairbairn",
-          "firstName": "Ka'imi",
-          "lastName": "Fairbairn",
-          "position": "K",
-          "team": "HOU",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 10,
-          "age": 32
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 45520,
-        "player": {
-          "id": "6083",
-          "name": "Matt Gay",
-          "firstName": "Matt",
-          "lastName": "Gay",
-          "position": "K",
-          "team": "LV",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 32
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 1,
-          "teamName": "Chase & Pray",
-          "displayName": "EliHoF",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      }
-    ],
-    "drops": [
-      {
-        "count": 752247,
-        "player": {
-          "id": "11435",
-          "name": "Emanuel Wilson",
-          "firstName": "Emanuel",
-          "lastName": "Wilson",
-          "position": "RB",
-          "team": "SEA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 3,
-          "yearsExp": 3,
-          "age": 27
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 448712,
-        "player": {
-          "id": "9230",
-          "name": "Tanner McKee",
-          "firstName": "Tanner",
-          "lastName": "McKee",
-          "position": "QB",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 2,
-          "yearsExp": 3,
-          "age": 26
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 447923,
-        "player": {
-          "id": "WAS",
-          "name": "WAS D/ST",
-          "position": "DEF",
-          "team": "WAS",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 4,
-          "teamName": "Ragenus",
-          "displayName": "Ragenus",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 356370,
-        "player": {
-          "id": "12711",
-          "name": "Tyler Loop",
-          "firstName": "Tyler",
-          "lastName": "Loop",
-          "position": "K",
-          "team": "BAL",
-          "status": "Inactive",
-          "injuryStatus": "IR",
-          "injuryBodyPart": "Groin",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 2,
-          "yearsExp": 1,
-          "age": 25
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 288211,
-        "player": {
-          "id": "NE",
-          "name": "NE D/ST",
-          "position": "DEF",
-          "team": "NE",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 12,
-          "teamName": "LastrupMudDogs",
-          "displayName": "LastrupMudDogs",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 242802,
-        "player": {
-          "id": "3271",
-          "name": "Tyler Higbee",
-          "firstName": "Tyler",
-          "lastName": "Higbee",
-          "position": "TE",
-          "team": "LAR",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 2,
-          "yearsExp": 10,
-          "age": 33
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 208710,
-        "player": {
-          "id": "11637",
-          "name": "Keon Coleman",
-          "firstName": "Keon",
-          "lastName": "Coleman",
-          "position": "WR",
-          "team": "BUF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "LWR",
-          "depthChartOrder": 3,
-          "yearsExp": 2,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 7,
-          "teamName": "Windhorst Monkeys",
-          "displayName": "Bernd3",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 183880,
-        "player": {
-          "id": "4881",
-          "name": "Lamar Jackson",
-          "firstName": "Lamar",
-          "lastName": "Jackson",
-          "position": "QB",
-          "team": "BAL",
-          "status": "Inactive",
-          "injuryStatus": "Out",
-          "injuryBodyPart": "Thumb",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 2,
-          "yearsExp": 8,
-          "age": 29
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 5,
-          "teamName": "Gronbraunski",
-          "displayName": "Gronbraunski",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 173364,
-        "player": {
-          "id": "1945",
-          "name": "Chris Boswell",
-          "firstName": "Chris",
-          "lastName": "Boswell",
-          "position": "K",
-          "team": "PIT",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 12,
-          "age": 35
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 164520,
-        "player": {
-          "id": "12718",
-          "name": "Konata Mumpfield",
-          "firstName": "Konata",
-          "lastName": "Mumpfield",
-          "position": "WR",
-          "team": "LAR",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
-          "yearsExp": 1,
-          "age": 24
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 159089,
-        "player": {
-          "id": "CLE",
-          "name": "CLE D/ST",
-          "position": "DEF",
-          "team": "CLE",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 156222,
-        "player": {
-          "id": "5012",
-          "name": "Mark Andrews",
-          "firstName": "Mark",
-          "lastName": "Andrews",
-          "position": "TE",
-          "team": "BAL",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 8,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 153944,
-        "player": {
-          "id": "10235",
-          "name": "Roschon Johnson",
-          "firstName": "Roschon",
-          "lastName": "Johnson",
-          "position": "RB",
-          "team": "CHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 3,
-          "yearsExp": 3,
-          "age": 25
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 142425,
-        "player": {
-          "id": "11581",
-          "name": "MarShawn Lloyd",
-          "firstName": "MarShawn",
-          "lastName": "Lloyd",
-          "position": "RB",
-          "team": "GB",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 2,
-          "age": 25
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 140805,
-        "player": {
-          "id": "4943",
-          "name": "Sam Darnold",
-          "firstName": "Sam",
-          "lastName": "Darnold",
-          "position": "QB",
-          "team": "SEA",
-          "status": "Active",
-          "injuryStatus": "Out",
-          "injuryBodyPart": "Quadriceps",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 2,
-          "yearsExp": 8,
-          "age": 29
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 3,
-          "teamName": "MeniskusFC",
-          "displayName": "MeniskusFC",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 136824,
-        "player": {
-          "id": "13276",
-          "name": "Omar Cooper Jr.",
-          "firstName": "Omar",
-          "lastName": "Cooper Jr.",
-          "position": "WR",
-          "team": "NYJ",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 0,
-          "age": 22
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 134800,
-        "player": {
-          "id": "8129",
-          "name": "Dameon Pierce",
-          "firstName": "Dameon",
-          "lastName": "Pierce",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Inactive",
-          "injuryStatus": "IR",
-          "injuryBodyPart": "Undisclosed",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 5,
-          "yearsExp": 4,
-          "age": 26
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 129100,
-        "player": {
-          "id": "TB",
-          "name": "TB D/ST",
-          "position": "DEF",
-          "team": "TB",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 126135,
-        "player": {
-          "id": "9480",
-          "name": "Brenton Strange",
-          "firstName": "Brenton",
-          "lastName": "Strange",
-          "position": "TE",
-          "team": "JAX",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 3,
-          "age": 25
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 125104,
-        "player": {
-          "id": "5849",
-          "name": "Kyler Murray",
-          "firstName": "Kyler",
-          "lastName": "Murray",
-          "position": "QB",
-          "team": "MIN",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Hamstring",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 29
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 10,
-          "teamName": "Polk High 33",
-          "displayName": "nibra180",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 124523,
-        "player": {
-          "id": "13150",
-          "name": "Darius Cooper",
-          "firstName": "Darius",
-          "lastName": "Cooper",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 4,
-          "yearsExp": 1,
-          "age": 24
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 114546,
-        "player": {
-          "id": "4037",
-          "name": "Chris Godwin Jr.",
-          "firstName": "Chris",
-          "lastName": "Godwin Jr.",
-          "position": "WR",
-          "team": "TB",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
-          "yearsExp": 9,
-          "age": 30
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 5,
-          "teamName": "Gronbraunski",
-          "displayName": "Gronbraunski",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 111702,
-        "player": {
-          "id": "4454",
-          "name": "Kendrick Bourne",
-          "firstName": "Kendrick",
-          "lastName": "Bourne",
-          "position": "WR",
-          "team": "ARI",
-          "status": "Inactive",
-          "injuryStatus": "IR",
-          "injuryBodyPart": "Lower Leg",
-          "injuryNotes": "Fracture",
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": null,
-          "depthChartOrder": 6,
-          "yearsExp": 9,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 107096,
-        "player": {
-          "id": "3321",
-          "name": "Tyreek Hill",
-          "firstName": "Tyreek",
-          "lastName": "Hill",
-          "position": "WR",
-          "team": null,
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Knee - ACL",
-          "injuryNotes": "Surgery",
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": null,
-          "depthChartOrder": null,
-          "yearsExp": 10,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 105843,
-        "player": {
-          "id": "PIT",
-          "name": "PIT D/ST",
-          "position": "DEF",
-          "team": "PIT",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 104008,
-        "player": {
-          "id": "4017",
-          "name": "Deshaun Watson",
-          "firstName": "Deshaun",
-          "lastName": "Watson",
-          "position": "QB",
-          "team": "CLE",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Concussion",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 2,
-          "yearsExp": 9,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 100512,
-        "player": {
-          "id": "7561",
-          "name": "Elijah Mitchell",
-          "firstName": "Elijah",
-          "lastName": "Mitchell",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": null,
-          "depthChartOrder": null,
-          "yearsExp": 5,
-          "age": 28
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 2,
-          "teamName": "Buckys Backfield",
-          "displayName": "NewYorkMetts",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 98616,
-        "player": {
-          "id": "LV",
-          "name": "LV D/ST",
-          "position": "DEF",
-          "team": "LV",
-          "status": "Active",
-          "injuryStatus": null,
-          "fantasyPositions": [
-            "DEF"
-          ]
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 97352,
-        "player": {
-          "id": "12457",
-          "name": "Jaydon Blue",
-          "firstName": "Jaydon",
-          "lastName": "Blue",
-          "position": "RB",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 1,
-          "age": 22
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 94624,
-        "player": {
-          "id": "4147",
-          "name": "Samaje Perine",
-          "firstName": "Samaje",
-          "lastName": "Perine",
-          "position": "RB",
-          "team": "CIN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 9,
-          "age": 31
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 93040,
-        "player": {
-          "id": "9502",
-          "name": "Tank Dell",
-          "firstName": "Tank",
-          "lastName": "Dell",
-          "position": "WR",
-          "team": "HOU",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 5,
-          "yearsExp": 3,
-          "age": 27
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 92008,
-        "player": {
-          "id": "13296",
-          "name": "Caleb Douglas",
-          "firstName": "Caleb",
-          "lastName": "Douglas",
-          "position": "WR",
-          "team": "MIA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 1,
-          "teamName": "Chase & Pray",
-          "displayName": "EliHoF",
-          "username": null,
-          "source": "completed_transaction",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 90225,
-        "player": {
-          "id": "8408",
-          "name": "Jordan Mason",
-          "firstName": "Jordan",
-          "lastName": "Mason",
-          "position": "RB",
-          "team": "MIN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 4,
-          "age": 27
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 5,
-          "teamName": "Gronbraunski",
-          "displayName": "Gronbraunski",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 88152,
-        "player": {
-          "id": "13545",
-          "name": "Trey Smack",
-          "firstName": "Trey",
-          "lastName": "Smack",
-          "position": "K",
-          "team": "GB",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "K"
-          ],
-          "depthChartPosition": "K",
-          "depthChartOrder": 1,
-          "yearsExp": 0,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 84688,
-        "player": {
-          "id": "96",
-          "name": "Aaron Rodgers",
-          "firstName": "Aaron",
-          "lastName": "Rodgers",
-          "position": "QB",
-          "team": "PIT",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 21,
-          "age": 42
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 84266,
-        "player": {
-          "id": "11834",
-          "name": "Devaughn Vele",
-          "firstName": "Devaughn",
-          "lastName": "Vele",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 2,
-          "yearsExp": 2,
-          "age": 28
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 8,
-          "teamName": "MatthiasvilleMagic",
-          "displayName": "MatthiasvilleMagic",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 83133,
-        "player": {
-          "id": "9511",
-          "name": "Keaton Mitchell",
-          "firstName": "Keaton",
-          "lastName": "Mitchell",
-          "position": "RB",
-          "team": "LAC",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 3,
-          "yearsExp": 3,
-          "age": 24
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 6,
-          "teamName": "Xyz",
-          "displayName": "Xyt",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 78966,
-        "player": {
-          "id": "2505",
-          "name": "Darren Waller",
-          "firstName": "Darren",
-          "lastName": "Waller",
-          "position": "TE",
-          "team": "CAR",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 11,
-          "age": 34
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 76773,
-        "player": {
-          "id": "3214",
-          "name": "Hunter Henry",
-          "firstName": "Hunter",
-          "lastName": "Henry",
-          "position": "TE",
-          "team": "NE",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Foot",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 10,
-          "age": 31
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 9,
-          "teamName": "ParosPower",
-          "displayName": "ParosPower",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "starter"
-        }
-      },
-      {
-        "count": 74106,
-        "player": {
-          "id": "11624",
-          "name": "Xavier Worthy",
-          "firstName": "Xavier",
-          "lastName": "Worthy",
-          "position": "WR",
-          "team": "KC",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "RWR",
-          "depthChartOrder": 2,
-          "yearsExp": 2,
-          "age": 23
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 7,
-          "teamName": "Windhorst Monkeys",
-          "displayName": "Bernd3",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 70470,
-        "player": {
-          "id": "8110",
-          "name": "Jake Ferguson",
-          "firstName": "Jake",
-          "lastName": "Ferguson",
-          "position": "TE",
-          "team": "DAL",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Ankle",
-          "injuryNotes": "Sprain",
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 4,
-          "age": 27
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 69633,
+        "count": 367650,
         "player": {
           "id": "6130",
           "name": "Devin Singletary",
@@ -18707,14 +16410,93 @@
         }
       },
       {
-        "count": 68895,
+        "count": 300293,
         "player": {
-          "id": "5045",
-          "name": "Courtland Sutton",
-          "firstName": "Courtland",
-          "lastName": "Sutton",
+          "id": "2020",
+          "name": "Cairo Santos",
+          "firstName": "Cairo",
+          "lastName": "Santos",
+          "position": "K",
+          "team": "CHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 12,
+          "age": 34
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 11,
+          "teamName": "🐉🐑🐉",
+          "displayName": "MrInterception",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 262332,
+        "player": {
+          "id": "3286",
+          "name": "Demarcus Robinson",
+          "firstName": "Demarcus",
+          "lastName": "Robinson",
           "position": "WR",
-          "team": "DEN",
+          "team": "SF",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Ankle",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "LWR",
+          "depthChartOrder": 7,
+          "yearsExp": 10,
+          "age": 32
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 257488,
+        "player": {
+          "id": "8161",
+          "name": "Malik Willis",
+          "firstName": "Malik",
+          "lastName": "Willis",
+          "position": "QB",
+          "team": "MIA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 4,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 256640,
+        "player": {
+          "id": "11625",
+          "name": "Adonai Mitchell",
+          "firstName": "Adonai",
+          "lastName": "Mitchell",
+          "position": "WR",
+          "team": "NYJ",
           "status": "Active",
           "injuryStatus": null,
           "injuryBodyPart": null,
@@ -18722,30 +16504,77 @@
           "fantasyPositions": [
             "WR"
           ],
-          "depthChartPosition": "LWR",
+          "depthChartPosition": "RWR",
           "depthChartOrder": 2,
-          "yearsExp": 8,
-          "age": 31
+          "yearsExp": 2,
+          "age": 24
         },
         "unrosteredInLeague": false,
         "ownership": {
-          "rosterId": 3,
-          "teamName": "MeniskusFC",
-          "displayName": "MeniskusFC",
+          "rosterId": 11,
+          "teamName": "🐉🐑🐉",
+          "displayName": "MrInterception",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 246710,
+        "player": {
+          "id": "NO",
+          "name": "NO D/ST",
+          "position": "DEF",
+          "team": "NO",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 145161,
+        "player": {
+          "id": "13337",
+          "name": "Emmett Johnson",
+          "firstName": "Emmett",
+          "lastName": "Johnson",
+          "position": "RB",
+          "team": "KC",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 4,
+          "teamName": "Ragenus",
+          "displayName": "Ragenus",
           "username": null,
           "source": "roster_endpoint",
           "slot": "bench"
         }
       },
       {
-        "count": 67689,
+        "count": 132052,
         "player": {
-          "id": "9482",
-          "name": "Michael Mayer",
-          "firstName": "Michael",
-          "lastName": "Mayer",
+          "id": "4993",
+          "name": "Mike Gesicki",
+          "firstName": "Mike",
+          "lastName": "Gesicki",
           "position": "TE",
-          "team": "LV",
+          "team": "CIN",
           "status": "Active",
           "injuryStatus": null,
           "injuryBodyPart": null,
@@ -18754,8 +16583,125 @@
             "TE"
           ],
           "depthChartPosition": "TE",
-          "depthChartOrder": 2,
-          "yearsExp": 3,
+          "depthChartOrder": 1,
+          "yearsExp": 8,
+          "age": 31
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 12,
+          "teamName": "LastrupMudDogs",
+          "displayName": "LastrupMudDogs",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 125253,
+        "player": {
+          "id": "7561",
+          "name": "Elijah Mitchell",
+          "firstName": "Elijah",
+          "lastName": "Mitchell",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": null,
+          "depthChartOrder": null,
+          "yearsExp": 5,
+          "age": 28
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 2,
+          "teamName": "Buckys Backfield",
+          "displayName": "NewYorkMetts",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 120628,
+        "player": {
+          "id": "11557",
+          "name": "Joe Milton",
+          "firstName": "Joe",
+          "lastName": "Milton",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 2,
+          "age": 26
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 119090,
+        "player": {
+          "id": "7042",
+          "name": "Tyler Bass",
+          "firstName": "Tyler",
+          "lastName": "Bass",
+          "position": "K",
+          "team": "BUF",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 6,
+          "age": 29
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 7,
+          "teamName": "Windhorst Monkeys",
+          "displayName": "Bernd3",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 117568,
+        "player": {
+          "id": "11610",
+          "name": "Malik Washington",
+          "firstName": "Malik",
+          "lastName": "Washington",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 1,
+          "yearsExp": 2,
           "age": 25
         },
         "unrosteredInLeague": false,
@@ -18765,11 +16711,253 @@
           "displayName": "Xyt",
           "username": null,
           "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 112040,
+        "player": {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "firstName": "Ryan",
+          "lastName": "Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 3,
+          "yearsExp": 2,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 107496,
+        "player": {
+          "id": "13286",
+          "name": "Jadarian Price",
+          "firstName": "Jadarian",
+          "lastName": "Price",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 11,
+          "teamName": "🐉🐑🐉",
+          "displayName": "MrInterception",
+          "username": null,
+          "source": "roster_endpoint",
           "slot": "starter"
         }
       },
       {
-        "count": 67240,
+        "count": 100648,
+        "player": {
+          "id": "NYG",
+          "name": "NYG D/ST",
+          "position": "DEF",
+          "team": "NYG",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 88940,
+        "player": {
+          "id": "HOU",
+          "name": "HOU D/ST",
+          "position": "DEF",
+          "team": "HOU",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 11,
+          "teamName": "🐉🐑🐉",
+          "displayName": "MrInterception",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 86860,
+        "player": {
+          "id": "12469",
+          "name": "Dylan Sampson",
+          "firstName": "Dylan",
+          "lastName": "Sampson",
+          "position": "RB",
+          "team": "CLE",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 1,
+          "age": 22
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 4,
+          "teamName": "Ragenus",
+          "displayName": "Ragenus",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 85184,
+        "player": {
+          "id": "1479",
+          "name": "Keenan Allen",
+          "firstName": "Keenan",
+          "lastName": "Allen",
+          "position": "WR",
+          "team": "IND",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 2,
+          "yearsExp": 13,
+          "age": 34
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 4,
+          "teamName": "Ragenus",
+          "displayName": "Ragenus",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 74856,
+        "player": {
+          "id": "12524",
+          "name": "Shedeur Sanders",
+          "firstName": "Shedeur",
+          "lastName": "Sanders",
+          "position": "QB",
+          "team": "CLE",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 70875,
+        "player": {
+          "id": "13414",
+          "name": "Kaelon Black",
+          "firstName": "Kaelon",
+          "lastName": "Black",
+          "position": "RB",
+          "team": "SF",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 25
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 2,
+          "teamName": "Buckys Backfield",
+          "displayName": "NewYorkMetts",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 70848,
+        "player": {
+          "id": "1166",
+          "name": "Kirk Cousins",
+          "firstName": "Kirk",
+          "lastName": "Cousins",
+          "position": "QB",
+          "team": "LV",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 14,
+          "age": 38
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 57736,
         "player": {
           "id": "6650",
           "name": "Chase McLaughlin",
@@ -18800,7 +16988,1720 @@
         }
       },
       {
-        "count": 67168,
+        "count": 56736,
+        "player": {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "firstName": "Caleb",
+          "lastName": "Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 1,
+          "teamName": "Chase & Pray",
+          "displayName": "EliHoF",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 56189,
+        "player": {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "firstName": "C.J.",
+          "lastName": "Stroud",
+          "position": "QB",
+          "team": "HOU",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 3,
+          "age": 25
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 9,
+          "teamName": "ParosPower",
+          "displayName": "ParosPower",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 55086,
+        "player": {
+          "id": "SF",
+          "name": "SF D/ST",
+          "position": "DEF",
+          "team": "SF",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 53808,
+        "player": {
+          "id": "11539",
+          "name": "Jake Bates",
+          "firstName": "Jake",
+          "lastName": "Bates",
+          "position": "K",
+          "team": "DET",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 3,
+          "age": 27
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 10,
+          "teamName": "Polk High 33",
+          "displayName": "nibra180",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 53680,
+        "player": {
+          "id": "4035",
+          "name": "Alvin Kamara",
+          "firstName": "Alvin",
+          "lastName": "Kamara",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Back",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 1,
+          "yearsExp": 9,
+          "age": 31
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 7,
+          "teamName": "Windhorst Monkeys",
+          "displayName": "Bernd3",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 53151,
+        "player": {
+          "id": "11729",
+          "name": "Sione Vaki",
+          "firstName": "Sione",
+          "lastName": "Vaki",
+          "position": "RB",
+          "team": "DET",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 2,
+          "age": 25
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 52730,
+        "player": {
+          "id": "9757",
+          "name": "Kendre Miller",
+          "firstName": "Kendre",
+          "lastName": "Miller",
+          "position": "RB",
+          "team": "NO",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 3,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 50913,
+        "player": {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "firstName": "Michael",
+          "lastName": "Mayer",
+          "position": "TE",
+          "team": "LV",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 2,
+          "yearsExp": 3,
+          "age": 25
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 6,
+          "teamName": "Xyz",
+          "displayName": "Xyt",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 50328,
+        "player": {
+          "id": "8134",
+          "name": "Khalil Shakir",
+          "firstName": "Khalil",
+          "lastName": "Shakir",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 2,
+          "yearsExp": 4,
+          "age": 26
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 10,
+          "teamName": "Polk High 33",
+          "displayName": "nibra180",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 47475,
+        "player": {
+          "id": "5189",
+          "name": "Eddy Pineiro",
+          "firstName": "Eddy",
+          "lastName": "Pineiro",
+          "position": "K",
+          "team": "SF",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 8,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 47061,
+        "player": {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "firstName": "Darius",
+          "lastName": "Cooper",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 47056,
+        "player": {
+          "id": "12487",
+          "name": "Terrance Ferguson",
+          "firstName": "Terrance",
+          "lastName": "Ferguson",
+          "position": "TE",
+          "team": "LAR",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Ankle",
+          "injuryNotes": "Sprain",
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 5,
+          "yearsExp": 1,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 2,
+          "teamName": "Buckys Backfield",
+          "displayName": "NewYorkMetts",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 44552,
+        "player": {
+          "id": "13276",
+          "name": "Omar Cooper Jr.",
+          "firstName": "Omar",
+          "lastName": "Cooper Jr.",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 3,
+          "yearsExp": 0,
+          "age": 22
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 43646,
+        "player": {
+          "id": "5854",
+          "name": "Drew Lock",
+          "firstName": "Drew",
+          "lastName": "Lock",
+          "position": "QB",
+          "team": "SEA",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Elbow",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 7,
+          "age": 29
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 43544,
+        "player": {
+          "id": "4663",
+          "name": "Austin Ekeler",
+          "firstName": "Austin",
+          "lastName": "Ekeler",
+          "position": "RB",
+          "team": "WAS",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 9,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 42690,
+        "player": {
+          "id": "JAX",
+          "name": "JAX D/ST",
+          "position": "DEF",
+          "team": "JAX",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 2,
+          "teamName": "Buckys Backfield",
+          "displayName": "NewYorkMetts",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 41895,
+        "player": {
+          "id": "5995",
+          "name": "Justice Hill",
+          "firstName": "Justice",
+          "lastName": "Hill",
+          "position": "RB",
+          "team": "BAL",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 7,
+          "age": 28
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 3,
+          "teamName": "MeniskusFC",
+          "displayName": "MeniskusFC",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 41669,
+        "player": {
+          "id": "CHI",
+          "name": "CHI D/ST",
+          "position": "DEF",
+          "team": "CHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 41095,
+        "player": {
+          "id": "TB",
+          "name": "TB D/ST",
+          "position": "DEF",
+          "team": "TB",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 39120,
+        "player": {
+          "id": "11565",
+          "name": "J.J. McCarthy",
+          "firstName": "J.J.",
+          "lastName": "McCarthy",
+          "position": "QB",
+          "team": "NYG",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 2,
+          "age": 23
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 37566,
+        "player": {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "firstName": "Xavier",
+          "lastName": "Worthy",
+          "position": "WR",
+          "team": "KC",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 2,
+          "yearsExp": 2,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 7,
+          "teamName": "Windhorst Monkeys",
+          "displayName": "Bernd3",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 37552,
+        "player": {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "firstName": "Kenny",
+          "lastName": "Gainwell",
+          "position": "RB",
+          "team": "TB",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 5,
+          "age": 27
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 6,
+          "teamName": "Xyz",
+          "displayName": "Xyt",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 36490,
+        "player": {
+          "id": "8132",
+          "name": "Tyler Allgeier",
+          "firstName": "Tyler",
+          "lastName": "Allgeier",
+          "position": "RB",
+          "team": "ARI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 1,
+          "yearsExp": 4,
+          "age": 26
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 5,
+          "teamName": "Gronbraunski",
+          "displayName": "Gronbraunski",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 34911,
+        "player": {
+          "id": "12540",
+          "name": "Chimere Dike",
+          "firstName": "Chimere",
+          "lastName": "Dike",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 4,
+          "yearsExp": 1,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 33075,
+        "player": {
+          "id": "9756",
+          "name": "Jordan Addison",
+          "firstName": "Jordan",
+          "lastName": "Addison",
+          "position": "WR",
+          "team": "MIN",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 2,
+          "yearsExp": 3,
+          "age": 24
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 6,
+          "teamName": "Xyz",
+          "displayName": "Xyt",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      }
+    ],
+    "drops": [
+      {
+        "count": 388260,
+        "player": {
+          "id": "11435",
+          "name": "Emanuel Wilson",
+          "firstName": "Emanuel",
+          "lastName": "Wilson",
+          "position": "RB",
+          "team": "SEA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 3,
+          "yearsExp": 3,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 256440,
+        "player": {
+          "id": "12711",
+          "name": "Tyler Loop",
+          "firstName": "Tyler",
+          "lastName": "Loop",
+          "position": "K",
+          "team": "BAL",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Groin",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 2,
+          "yearsExp": 1,
+          "age": 25
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 250936,
+        "player": {
+          "id": "WAS",
+          "name": "WAS D/ST",
+          "position": "DEF",
+          "team": "WAS",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 4,
+          "teamName": "Ragenus",
+          "displayName": "Ragenus",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 243162,
+        "player": {
+          "id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "firstName": "Chris",
+          "lastName": "Rodriguez Jr.",
+          "position": "RB",
+          "team": "JAX",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 3,
+          "age": 27
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 1,
+          "teamName": "Chase & Pray",
+          "displayName": "EliHoF",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 235224,
+        "player": {
+          "id": "5849",
+          "name": "Kyler Murray",
+          "firstName": "Kyler",
+          "lastName": "Murray",
+          "position": "QB",
+          "team": "MIN",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Hamstring",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 2,
+          "yearsExp": 7,
+          "age": 29
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 10,
+          "teamName": "Polk High 33",
+          "displayName": "nibra180",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 197176,
+        "player": {
+          "id": "9230",
+          "name": "Tanner McKee",
+          "firstName": "Tanner",
+          "lastName": "McKee",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Ribs",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 3,
+          "yearsExp": 3,
+          "age": 26
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 136341,
+        "player": {
+          "id": "3271",
+          "name": "Tyler Higbee",
+          "firstName": "Tyler",
+          "lastName": "Higbee",
+          "position": "TE",
+          "team": "LAR",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 2,
+          "yearsExp": 10,
+          "age": 33
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 135888,
+        "player": {
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "firstName": "Lamar",
+          "lastName": "Jackson",
+          "position": "QB",
+          "team": "BAL",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Thumb",
+          "injuryNotes": "Surgery",
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 2,
+          "yearsExp": 8,
+          "age": 29
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 5,
+          "teamName": "Gronbraunski",
+          "displayName": "Gronbraunski",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 133987,
+        "player": {
+          "id": "NE",
+          "name": "NE D/ST",
+          "position": "DEF",
+          "team": "NE",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 12,
+          "teamName": "LastrupMudDogs",
+          "displayName": "LastrupMudDogs",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 128004,
+        "player": {
+          "id": "1945",
+          "name": "Chris Boswell",
+          "firstName": "Chris",
+          "lastName": "Boswell",
+          "position": "K",
+          "team": "PIT",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 12,
+          "age": 35
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 116685,
+        "player": {
+          "id": "11637",
+          "name": "Keon Coleman",
+          "firstName": "Keon",
+          "lastName": "Coleman",
+          "position": "WR",
+          "team": "BUF",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Shoulder",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "LWR",
+          "depthChartOrder": 3,
+          "yearsExp": 2,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 7,
+          "teamName": "Windhorst Monkeys",
+          "displayName": "Bernd3",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 105831,
+        "player": {
+          "id": "11581",
+          "name": "MarShawn Lloyd",
+          "firstName": "MarShawn",
+          "lastName": "Lloyd",
+          "position": "RB",
+          "team": "GB",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Knee",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 2,
+          "age": 25
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 102608,
+        "player": {
+          "id": "10235",
+          "name": "Roschon Johnson",
+          "firstName": "Roschon",
+          "lastName": "Johnson",
+          "position": "RB",
+          "team": "CHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 3,
+          "yearsExp": 3,
+          "age": 25
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 92781,
+        "player": {
+          "id": "5012",
+          "name": "Mark Andrews",
+          "firstName": "Mark",
+          "lastName": "Andrews",
+          "position": "TE",
+          "team": "BAL",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 8,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 91483,
+        "player": {
+          "id": "CLE",
+          "name": "CLE D/ST",
+          "position": "DEF",
+          "team": "CLE",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 88408,
+        "player": {
+          "id": "8129",
+          "name": "Dameon Pierce",
+          "firstName": "Dameon",
+          "lastName": "Pierce",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Undisclosed",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 5,
+          "yearsExp": 4,
+          "age": 26
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 75510,
+        "player": {
+          "id": "12718",
+          "name": "Konata Mumpfield",
+          "firstName": "Konata",
+          "lastName": "Mumpfield",
+          "position": "WR",
+          "team": "LAR",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 2,
+          "yearsExp": 1,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 74568,
+        "player": {
+          "id": "PIT",
+          "name": "PIT D/ST",
+          "position": "DEF",
+          "team": "PIT",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 11,
+          "teamName": "🐉🐑🐉",
+          "displayName": "MrInterception",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 74556,
+        "player": {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "firstName": "Brenton",
+          "lastName": "Strange",
+          "position": "TE",
+          "team": "JAX",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 3,
+          "age": 25
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 74050,
+        "player": {
+          "id": "TB",
+          "name": "TB D/ST",
+          "position": "DEF",
+          "team": "TB",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 66408,
+        "player": {
+          "id": "LV",
+          "name": "LV D/ST",
+          "position": "DEF",
+          "team": "LV",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 65440,
+        "player": {
+          "id": "4017",
+          "name": "Deshaun Watson",
+          "firstName": "Deshaun",
+          "lastName": "Watson",
+          "position": "QB",
+          "team": "CLE",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Concussion",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 2,
+          "yearsExp": 9,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 62195,
+        "player": {
+          "id": "13150",
+          "name": "Darius Cooper",
+          "firstName": "Darius",
+          "lastName": "Cooper",
+          "position": "WR",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 24
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 59284,
+        "player": {
+          "id": "13545",
+          "name": "Trey Smack",
+          "firstName": "Trey",
+          "lastName": "Smack",
+          "position": "K",
+          "team": "GB",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 0,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 59046,
+        "player": {
+          "id": "4037",
+          "name": "Chris Godwin Jr.",
+          "firstName": "Chris",
+          "lastName": "Godwin Jr.",
+          "position": "WR",
+          "team": "TB",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 2,
+          "yearsExp": 9,
+          "age": 30
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 5,
+          "teamName": "Gronbraunski",
+          "displayName": "Gronbraunski",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 56412,
+        "player": {
+          "id": "4454",
+          "name": "Kendrick Bourne",
+          "firstName": "Kendrick",
+          "lastName": "Bourne",
+          "position": "WR",
+          "team": "ARI",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Lower Leg",
+          "injuryNotes": "Fracture",
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": null,
+          "depthChartOrder": 6,
+          "yearsExp": 9,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 55338,
+        "player": {
+          "id": "4943",
+          "name": "Sam Darnold",
+          "firstName": "Sam",
+          "lastName": "Darnold",
+          "position": "QB",
+          "team": "SEA",
+          "status": "Active",
+          "injuryStatus": "Out",
+          "injuryBodyPart": "Quadriceps",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 2,
+          "yearsExp": 8,
+          "age": 29
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 3,
+          "teamName": "MeniskusFC",
+          "displayName": "MeniskusFC",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 55224,
+        "player": {
+          "id": "3321",
+          "name": "Tyreek Hill",
+          "firstName": "Tyreek",
+          "lastName": "Hill",
+          "position": "WR",
+          "team": null,
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Knee - ACL",
+          "injuryNotes": "Surgery",
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": null,
+          "depthChartOrder": null,
+          "yearsExp": 10,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 55168,
+        "player": {
+          "id": "13276",
+          "name": "Omar Cooper Jr.",
+          "firstName": "Omar",
+          "lastName": "Cooper Jr.",
+          "position": "WR",
+          "team": "NYJ",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 3,
+          "yearsExp": 0,
+          "age": 22
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 53704,
+        "player": {
+          "id": "96",
+          "name": "Aaron Rodgers",
+          "firstName": "Aaron",
+          "lastName": "Rodgers",
+          "position": "QB",
+          "team": "PIT",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 21,
+          "age": 42
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 51360,
+        "player": {
+          "id": "9502",
+          "name": "Tank Dell",
+          "firstName": "Tank",
+          "lastName": "Dell",
+          "position": "WR",
+          "team": "HOU",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 5,
+          "yearsExp": 3,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 51003,
+        "player": {
+          "id": "9511",
+          "name": "Keaton Mitchell",
+          "firstName": "Keaton",
+          "lastName": "Mitchell",
+          "position": "RB",
+          "team": "LAC",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 3,
+          "yearsExp": 3,
+          "age": 24
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 6,
+          "teamName": "Xyz",
+          "displayName": "Xyt",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 50106,
+        "player": {
+          "id": "11834",
+          "name": "Devaughn Vele",
+          "firstName": "Devaughn",
+          "lastName": "Vele",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 2,
+          "yearsExp": 2,
+          "age": 28
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 8,
+          "teamName": "MatthiasvilleMagic",
+          "displayName": "MatthiasvilleMagic",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 47970,
+        "player": {
+          "id": "7561",
+          "name": "Elijah Mitchell",
+          "firstName": "Elijah",
+          "lastName": "Mitchell",
+          "position": "RB",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": null,
+          "depthChartOrder": null,
+          "yearsExp": 5,
+          "age": 28
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 2,
+          "teamName": "Buckys Backfield",
+          "displayName": "NewYorkMetts",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 46827,
+        "player": {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "firstName": "Courtland",
+          "lastName": "Sutton",
+          "position": "WR",
+          "team": "DEN",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "LWR",
+          "depthChartOrder": 2,
+          "yearsExp": 8,
+          "age": 31
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 3,
+          "teamName": "MeniskusFC",
+          "displayName": "MeniskusFC",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 46665,
+        "player": {
+          "id": "3214",
+          "name": "Hunter Henry",
+          "firstName": "Hunter",
+          "lastName": "Henry",
+          "position": "TE",
+          "team": "NE",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Foot",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 2,
+          "yearsExp": 10,
+          "age": 31
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 9,
+          "teamName": "ParosPower",
+          "displayName": "ParosPower",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 46292,
+        "player": {
+          "id": "4147",
+          "name": "Samaje Perine",
+          "firstName": "Samaje",
+          "lastName": "Perine",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 9,
+          "age": 31
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 45837,
+        "player": {
+          "id": "2505",
+          "name": "Darren Waller",
+          "firstName": "Darren",
+          "lastName": "Waller",
+          "position": "TE",
+          "team": "CAR",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 11,
+          "age": 34
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 45435,
+        "player": {
+          "id": "8110",
+          "name": "Jake Ferguson",
+          "firstName": "Jake",
+          "lastName": "Ferguson",
+          "position": "TE",
+          "team": "DAL",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Ankle",
+          "injuryNotes": "Sprain",
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 4,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 45216,
+        "player": {
+          "id": "13296",
+          "name": "Caleb Douglas",
+          "firstName": "Caleb",
+          "lastName": "Douglas",
+          "position": "WR",
+          "team": "MIA",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 23
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 1,
+          "teamName": "Chase & Pray",
+          "displayName": "EliHoF",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 44384,
         "player": {
           "id": "13424",
           "name": "Seth McGowan",
@@ -18831,100 +18732,107 @@
         }
       },
       {
-        "count": 66555,
+        "count": 42138,
         "player": {
-          "id": "12498",
-          "name": "Mason Taylor",
-          "firstName": "Mason",
-          "lastName": "Taylor",
+          "id": "9482",
+          "name": "Michael Mayer",
+          "firstName": "Michael",
+          "lastName": "Mayer",
           "position": "TE",
-          "team": "NYJ",
+          "team": "LV",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Back",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "TE"
           ],
           "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 1,
-          "age": 22
-        },
-        "unrosteredInLeague": true,
-        "ownership": null
-      },
-      {
-        "count": 64916,
-        "player": {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "firstName": "Makai",
-          "lastName": "Lemon",
-          "position": "WR",
-          "team": "PHI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
           "depthChartOrder": 2,
-          "yearsExp": 0,
-          "age": 22
-        },
-        "unrosteredInLeague": false,
-        "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
-          "username": null,
-          "source": "roster_endpoint",
-          "slot": "bench"
-        }
-      },
-      {
-        "count": 64504,
-        "player": {
-          "id": "9228",
-          "name": "Bryce Young",
-          "firstName": "Bryce",
-          "lastName": "Young",
-          "position": "QB",
-          "team": "CAR",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
           "yearsExp": 3,
           "age": 25
         },
         "unrosteredInLeague": false,
         "ownership": {
-          "rosterId": 12,
-          "teamName": "LastrupMudDogs",
-          "displayName": "LastrupMudDogs",
+          "rosterId": 6,
+          "teamName": "Xyz",
+          "displayName": "Xyt",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 41795,
+        "player": {
+          "id": "8408",
+          "name": "Jordan Mason",
+          "firstName": "Jordan",
+          "lastName": "Mason",
+          "position": "RB",
+          "team": "MIN",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 4,
+          "age": 27
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 5,
+          "teamName": "Gronbraunski",
+          "displayName": "Gronbraunski",
           "username": null,
           "source": "roster_endpoint",
           "slot": "bench"
         }
       },
       {
-        "count": 63808,
+        "count": 41265,
         "player": {
-          "id": "11625",
-          "name": "Adonai Mitchell",
-          "firstName": "Adonai",
-          "lastName": "Mitchell",
+          "id": "6130",
+          "name": "Devin Singletary",
+          "firstName": "Devin",
+          "lastName": "Singletary",
+          "position": "RB",
+          "team": "NYG",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 7,
+          "age": 29
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 1,
+          "teamName": "Chase & Pray",
+          "displayName": "EliHoF",
+          "username": null,
+          "source": "completed_transaction",
+          "slot": "bench"
+        }
+      },
+      {
+        "count": 40986,
+        "player": {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "firstName": "Xavier",
+          "lastName": "Worthy",
           "position": "WR",
-          "team": "NYJ",
+          "team": "KC",
           "status": "Active",
           "injuryStatus": null,
           "injuryBodyPart": null,
@@ -18935,17 +18843,143 @@
           "depthChartPosition": "RWR",
           "depthChartOrder": 2,
           "yearsExp": 2,
-          "age": 24
+          "age": 23
         },
         "unrosteredInLeague": false,
         "ownership": {
-          "rosterId": 11,
-          "teamName": "🐉🐑🐉",
-          "displayName": "MrInterception",
+          "rosterId": 7,
+          "teamName": "Windhorst Monkeys",
+          "displayName": "Bernd3",
           "username": null,
-          "source": "completed_transaction",
+          "source": "roster_endpoint",
           "slot": "bench"
         }
+      },
+      {
+        "count": 40856,
+        "player": {
+          "id": "6650",
+          "name": "Chase McLaughlin",
+          "firstName": "Chase",
+          "lastName": "McLaughlin",
+          "position": "K",
+          "team": "TB",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 7,
+          "age": 30
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 12,
+          "teamName": "LastrupMudDogs",
+          "displayName": "LastrupMudDogs",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 40671,
+        "player": {
+          "id": "13330",
+          "name": "Kenyon Sadiq",
+          "firstName": "Kenyon",
+          "lastName": "Sadiq",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 2,
+          "yearsExp": 0,
+          "age": 21
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 38552,
+        "player": {
+          "id": "11539",
+          "name": "Jake Bates",
+          "firstName": "Jake",
+          "lastName": "Bates",
+          "position": "K",
+          "team": "DET",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "K"
+          ],
+          "depthChartPosition": "K",
+          "depthChartOrder": 1,
+          "yearsExp": 3,
+          "age": 27
+        },
+        "unrosteredInLeague": false,
+        "ownership": {
+          "rosterId": 10,
+          "teamName": "Polk High 33",
+          "displayName": "nibra180",
+          "username": null,
+          "source": "roster_endpoint",
+          "slot": "starter"
+        }
+      },
+      {
+        "count": 38272,
+        "player": {
+          "id": "12545",
+          "name": "Tyler Shough",
+          "firstName": "Tyler",
+          "lastName": "Shough",
+          "position": "QB",
+          "team": "NO",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 27
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
+      },
+      {
+        "count": 37494,
+        "player": {
+          "id": "DET",
+          "name": "DET D/ST",
+          "position": "DEF",
+          "team": "DET",
+          "status": "Active",
+          "injuryStatus": null,
+          "fantasyPositions": [
+            "DEF"
+          ]
+        },
+        "unrosteredInLeague": true,
+        "ownership": null
       }
     ]
   },
@@ -18961,12 +18995,12 @@
     "byPosition": {
       "QB": [
         {
-          "id": "11557",
-          "name": "Joe Milton",
-          "firstName": "Joe",
-          "lastName": "Milton",
+          "id": "3161",
+          "name": "Carson Wentz",
+          "firstName": "Carson",
+          "lastName": "Wentz",
           "position": "QB",
-          "team": "PHI",
+          "team": "MIN",
           "status": "Active",
           "injuryStatus": null,
           "injuryBodyPart": null,
@@ -18976,9 +19010,9 @@
           ],
           "depthChartPosition": "QB",
           "depthChartOrder": 1,
-          "yearsExp": 2,
-          "age": 26,
-          "trendingAdds24h": 469256
+          "yearsExp": 10,
+          "age": 33,
+          "trendingAdds24h": 477684
         },
         {
           "id": "8161",
@@ -18998,7 +19032,27 @@
           "depthChartOrder": 1,
           "yearsExp": 4,
           "age": 27,
-          "trendingAdds24h": 358911
+          "trendingAdds24h": 257488
+        },
+        {
+          "id": "11557",
+          "name": "Joe Milton",
+          "firstName": "Joe",
+          "lastName": "Milton",
+          "position": "QB",
+          "team": "PHI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 2,
+          "age": 26,
+          "trendingAdds24h": 120628
         },
         {
           "id": "12524",
@@ -19018,27 +19072,7 @@
           "depthChartOrder": 1,
           "yearsExp": 1,
           "age": 24,
-          "trendingAdds24h": 214432
-        },
-        {
-          "id": "6011",
-          "name": "Gardner Minshew II",
-          "firstName": "Gardner",
-          "lastName": "Minshew II",
-          "position": "QB",
-          "team": "ARI",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 1,
-          "yearsExp": 7,
-          "age": 30,
-          "trendingAdds24h": 171420
+          "trendingAdds24h": 74856
         },
         {
           "id": "5854",
@@ -19058,7 +19092,7 @@
           "depthChartOrder": 1,
           "yearsExp": 7,
           "age": 29,
-          "trendingAdds24h": 119934
+          "trendingAdds24h": 43646
         },
         {
           "id": "11565",
@@ -19078,27 +19112,7 @@
           "depthChartOrder": 1,
           "yearsExp": 2,
           "age": 23,
-          "trendingAdds24h": 61680
-        },
-        {
-          "id": "3161",
-          "name": "Carson Wentz",
-          "firstName": "Carson",
-          "lastName": "Wentz",
-          "position": "QB",
-          "team": "MIN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "QB"
-          ],
-          "depthChartPosition": "QB",
-          "depthChartOrder": 2,
-          "yearsExp": 10,
-          "age": 33,
-          "trendingAdds24h": 58350
+          "trendingAdds24h": 39120
         },
         {
           "id": "96",
@@ -19181,6 +19195,26 @@
           "trendingAdds24h": 0
         },
         {
+          "id": "6011",
+          "name": "Gardner Minshew II",
+          "firstName": "Gardner",
+          "lastName": "Minshew II",
+          "position": "QB",
+          "team": "ARI",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "QB"
+          ],
+          "depthChartPosition": "QB",
+          "depthChartOrder": 1,
+          "yearsExp": 7,
+          "age": 30,
+          "trendingAdds24h": 0
+        },
+        {
           "id": "13350",
           "name": "Joe Fagnano",
           "firstName": "Joe",
@@ -19220,7 +19254,7 @@
           "depthChartOrder": 2,
           "yearsExp": 2,
           "age": 25,
-          "trendingAdds24h": 103131
+          "trendingAdds24h": 53151
         },
         {
           "id": "9757",
@@ -19240,7 +19274,7 @@
           "depthChartOrder": 2,
           "yearsExp": 3,
           "age": 24,
-          "trendingAdds24h": 74234
+          "trendingAdds24h": 52730
         },
         {
           "id": "4663",
@@ -19260,13 +19294,13 @@
           "depthChartOrder": 2,
           "yearsExp": 9,
           "age": 31,
-          "trendingAdds24h": 55700
+          "trendingAdds24h": 43544
         },
         {
-          "id": "4718",
-          "name": "Dare Ogunbowale",
-          "firstName": "Dare",
-          "lastName": "Ogunbowale",
+          "id": "11199",
+          "name": "Emari Demercado",
+          "firstName": "Emari",
+          "lastName": "Demercado",
           "position": "RB",
           "team": "HOU",
           "status": "Active",
@@ -19278,8 +19312,8 @@
           ],
           "depthChartPosition": "RB",
           "depthChartOrder": 2,
-          "yearsExp": 9,
-          "age": 32,
+          "yearsExp": 3,
+          "age": 27,
           "trendingAdds24h": 0
         },
         {
@@ -19383,26 +19417,6 @@
           "trendingAdds24h": 0
         },
         {
-          "id": "6039",
-          "name": "Ty Johnson",
-          "firstName": "Ty",
-          "lastName": "Johnson",
-          "position": "RB",
-          "team": "BUF",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 2,
-          "yearsExp": 7,
-          "age": 29,
-          "trendingAdds24h": 0
-        },
-        {
           "id": "8207",
           "name": "Tyler Goodson",
           "firstName": "Tyler",
@@ -19460,6 +19474,26 @@
           "depthChartOrder": 2,
           "yearsExp": 2,
           "age": 23,
+          "trendingAdds24h": 0
+        },
+        {
+          "id": "6039",
+          "name": "Ty Johnson",
+          "firstName": "Ty",
+          "lastName": "Johnson",
+          "position": "RB",
+          "team": "BUF",
+          "status": "Active",
+          "injuryStatus": "Questionable",
+          "injuryBodyPart": "Illness",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 2,
+          "yearsExp": 7,
+          "age": 29,
           "trendingAdds24h": 0
         },
         {
@@ -19523,6 +19557,26 @@
           "trendingAdds24h": 0
         },
         {
+          "id": "4718",
+          "name": "Dare Ogunbowale",
+          "firstName": "Dare",
+          "lastName": "Ogunbowale",
+          "position": "RB",
+          "team": "HOU",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "RB"
+          ],
+          "depthChartPosition": "RB",
+          "depthChartOrder": 3,
+          "yearsExp": 9,
+          "age": 32,
+          "trendingAdds24h": 0
+        },
+        {
           "id": "6931",
           "name": "DeeJay Dallas",
           "firstName": "DeeJay",
@@ -19569,26 +19623,6 @@
           "lastName": "Wilson",
           "position": "RB",
           "team": "SEA",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "RB"
-          ],
-          "depthChartPosition": "RB",
-          "depthChartOrder": 3,
-          "yearsExp": 3,
-          "age": 27,
-          "trendingAdds24h": 0
-        },
-        {
-          "id": "11199",
-          "name": "Emari Demercado",
-          "firstName": "Emari",
-          "lastName": "Demercado",
-          "position": "RB",
-          "team": "HOU",
           "status": "Active",
           "injuryStatus": null,
           "injuryBodyPart": null,
@@ -19685,6 +19719,26 @@
       ],
       "WR": [
         {
+          "id": "3286",
+          "name": "Demarcus Robinson",
+          "firstName": "Demarcus",
+          "lastName": "Robinson",
+          "position": "WR",
+          "team": "SF",
+          "status": "Inactive",
+          "injuryStatus": "IR",
+          "injuryBodyPart": "Ankle",
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "LWR",
+          "depthChartOrder": 7,
+          "yearsExp": 10,
+          "age": 32,
+          "trendingAdds24h": 262332
+        },
+        {
           "id": "11783",
           "name": "Ryan Flournoy",
           "firstName": "Ryan",
@@ -19702,27 +19756,27 @@
           "depthChartOrder": 3,
           "yearsExp": 2,
           "age": 27,
-          "trendingAdds24h": 164424
+          "trendingAdds24h": 112040
         },
         {
-          "id": "8135",
-          "name": "Treylon Burks",
-          "firstName": "Treylon",
-          "lastName": "Burks",
+          "id": "13150",
+          "name": "Darius Cooper",
+          "firstName": "Darius",
+          "lastName": "Cooper",
           "position": "WR",
-          "team": "WAS",
+          "team": "PHI",
           "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Foot",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
           "injuryNotes": null,
           "fantasyPositions": [
             "WR"
           ],
           "depthChartPosition": "RWR",
-          "depthChartOrder": 3,
-          "yearsExp": 4,
-          "age": 26,
-          "trendingAdds24h": 103047
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 24,
+          "trendingAdds24h": 47061
         },
         {
           "id": "12540",
@@ -19742,7 +19796,27 @@
           "depthChartOrder": 4,
           "yearsExp": 1,
           "age": 24,
-          "trendingAdds24h": 56979
+          "trendingAdds24h": 34911
+        },
+        {
+          "id": "12542",
+          "name": "Efton Chism III",
+          "firstName": "Efton",
+          "lastName": "Chism III",
+          "position": "WR",
+          "team": "NE",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "SWR",
+          "depthChartOrder": 2,
+          "yearsExp": 1,
+          "age": 25,
+          "trendingAdds24h": 0
         },
         {
           "id": "12499",
@@ -20085,26 +20159,6 @@
           "trendingAdds24h": 0
         },
         {
-          "id": "12542",
-          "name": "Efton Chism III",
-          "firstName": "Efton",
-          "lastName": "Chism III",
-          "position": "WR",
-          "team": "NE",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 1,
-          "age": 25,
-          "trendingAdds24h": 0
-        },
-        {
           "id": "12535",
           "name": "Isaac TeSlaa",
           "firstName": "Isaac",
@@ -20165,26 +20219,6 @@
           "trendingAdds24h": 0
         },
         {
-          "id": "7049",
-          "name": "Jauan Jennings",
-          "firstName": "Jauan",
-          "lastName": "Jennings",
-          "position": "WR",
-          "team": "MIN",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 6,
-          "age": 29,
-          "trendingAdds24h": 0
-        },
-        {
           "id": "6783",
           "name": "Jerry Jeudy",
           "firstName": "Jerry",
@@ -20225,6 +20259,26 @@
           "trendingAdds24h": 0
         },
         {
+          "id": "12634",
+          "name": "Jordan Watkins",
+          "firstName": "Jordan",
+          "lastName": "Watkins",
+          "position": "WR",
+          "team": "SF",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "WR"
+          ],
+          "depthChartPosition": "RWR",
+          "depthChartOrder": 3,
+          "yearsExp": 1,
+          "age": 24,
+          "trendingAdds24h": 0
+        },
+        {
           "id": "3155",
           "name": "Laquon Treadwell",
           "firstName": "Laquon",
@@ -20262,26 +20316,6 @@
           "depthChartOrder": 3,
           "yearsExp": 3,
           "age": 24,
-          "trendingAdds24h": 0
-        },
-        {
-          "id": "6271",
-          "name": "Olamide Zaccheaus",
-          "firstName": "Olamide",
-          "lastName": "Zaccheaus",
-          "position": "WR",
-          "team": "ATL",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "WR"
-          ],
-          "depthChartPosition": "SWR",
-          "depthChartOrder": 3,
-          "yearsExp": 7,
-          "age": 29,
           "trendingAdds24h": 0
         }
       ],
@@ -20407,6 +20441,26 @@
           "trendingAdds24h": 0
         },
         {
+          "id": "13421",
+          "name": "Eli Raridon",
+          "firstName": "Eli",
+          "lastName": "Raridon",
+          "position": "TE",
+          "team": "NE",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 0,
+          "age": 22,
+          "trendingAdds24h": 0
+        },
+        {
           "id": "4066",
           "name": "Evan Engram",
           "firstName": "Evan",
@@ -20507,6 +20561,26 @@
           "trendingAdds24h": 0
         },
         {
+          "id": "12498",
+          "name": "Mason Taylor",
+          "firstName": "Mason",
+          "lastName": "Taylor",
+          "position": "TE",
+          "team": "NYJ",
+          "status": "Active",
+          "injuryStatus": null,
+          "injuryBodyPart": null,
+          "injuryNotes": null,
+          "fantasyPositions": [
+            "TE"
+          ],
+          "depthChartPosition": "TE",
+          "depthChartOrder": 1,
+          "yearsExp": 1,
+          "age": 22,
+          "trendingAdds24h": 0
+        },
+        {
           "id": "12493",
           "name": "Oronde Gadsden",
           "firstName": "Oronde",
@@ -20565,46 +20639,6 @@
           "yearsExp": 4,
           "age": 27,
           "trendingAdds24h": 0
-        },
-        {
-          "id": "12498",
-          "name": "Mason Taylor",
-          "firstName": "Mason",
-          "lastName": "Taylor",
-          "position": "TE",
-          "team": "NYJ",
-          "status": "Active",
-          "injuryStatus": "Questionable",
-          "injuryBodyPart": "Back",
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 1,
-          "yearsExp": 1,
-          "age": 22,
-          "trendingAdds24h": 0
-        },
-        {
-          "id": "3202",
-          "name": "Austin Hooper",
-          "firstName": "Austin",
-          "lastName": "Hooper",
-          "position": "TE",
-          "team": "ATL",
-          "status": "Active",
-          "injuryStatus": null,
-          "injuryBodyPart": null,
-          "injuryNotes": null,
-          "fantasyPositions": [
-            "TE"
-          ],
-          "depthChartPosition": "TE",
-          "depthChartOrder": 2,
-          "yearsExp": 10,
-          "age": 32,
-          "trendingAdds24h": 0
         }
       ],
       "K": [
@@ -20626,7 +20660,7 @@
           "depthChartOrder": 1,
           "yearsExp": 8,
           "age": 31,
-          "trendingAdds24h": 60666
+          "trendingAdds24h": 47475
         },
         {
           "id": "11261",
@@ -20781,7 +20815,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 506565
+        "trendingAdds24h": 374184
       },
       {
         "id": "NO",
@@ -20793,7 +20827,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 346035
+        "trendingAdds24h": 246710
       },
       {
         "id": "NYG",
@@ -20805,19 +20839,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 171564
-      },
-      {
-        "id": "CHI",
-        "name": "CHI D/ST",
-        "position": "DEF",
-        "team": "CHI",
-        "status": "Active",
-        "injuryStatus": null,
-        "fantasyPositions": [
-          "DEF"
-        ],
-        "trendingAdds24h": 87973
+        "trendingAdds24h": 100648
       },
       {
         "id": "SF",
@@ -20829,7 +20851,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 77664
+        "trendingAdds24h": 55086
       },
       {
         "id": "TB",
@@ -20841,7 +20863,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 51670
+        "trendingAdds24h": 41095
       }
     ],
     "defenses": [
@@ -20901,10 +20923,10 @@
         ]
       },
       {
-        "id": "CHI",
-        "name": "CHI D/ST",
+        "id": "CLE",
+        "name": "CLE D/ST",
         "position": "DEF",
-        "team": "CHI",
+        "team": "CLE",
         "status": "Active",
         "injuryStatus": null,
         "fantasyPositions": [
@@ -21079,12 +21101,12 @@
     ],
     "allRelevant": [
       {
-        "id": "11557",
-        "name": "Joe Milton",
-        "firstName": "Joe",
-        "lastName": "Milton",
+        "id": "3161",
+        "name": "Carson Wentz",
+        "firstName": "Carson",
+        "lastName": "Wentz",
         "position": "QB",
-        "team": "PHI",
+        "team": "MIN",
         "status": "Active",
         "injuryStatus": null,
         "injuryBodyPart": null,
@@ -21094,9 +21116,9 @@
         ],
         "depthChartPosition": "QB",
         "depthChartOrder": 1,
-        "yearsExp": 2,
-        "age": 26,
-        "trendingAdds24h": 469256
+        "yearsExp": 10,
+        "age": 33,
+        "trendingAdds24h": 477684
       },
       {
         "id": "8161",
@@ -21116,7 +21138,27 @@
         "depthChartOrder": 1,
         "yearsExp": 4,
         "age": 27,
-        "trendingAdds24h": 358911
+        "trendingAdds24h": 257488
+      },
+      {
+        "id": "11557",
+        "name": "Joe Milton",
+        "firstName": "Joe",
+        "lastName": "Milton",
+        "position": "QB",
+        "team": "PHI",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "QB"
+        ],
+        "depthChartPosition": "QB",
+        "depthChartOrder": 1,
+        "yearsExp": 2,
+        "age": 26,
+        "trendingAdds24h": 120628
       },
       {
         "id": "12524",
@@ -21136,27 +21178,7 @@
         "depthChartOrder": 1,
         "yearsExp": 1,
         "age": 24,
-        "trendingAdds24h": 214432
-      },
-      {
-        "id": "6011",
-        "name": "Gardner Minshew II",
-        "firstName": "Gardner",
-        "lastName": "Minshew II",
-        "position": "QB",
-        "team": "ARI",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "QB"
-        ],
-        "depthChartPosition": "QB",
-        "depthChartOrder": 1,
-        "yearsExp": 7,
-        "age": 30,
-        "trendingAdds24h": 171420
+        "trendingAdds24h": 74856
       },
       {
         "id": "5854",
@@ -21176,7 +21198,7 @@
         "depthChartOrder": 1,
         "yearsExp": 7,
         "age": 29,
-        "trendingAdds24h": 119934
+        "trendingAdds24h": 43646
       },
       {
         "id": "11565",
@@ -21196,27 +21218,7 @@
         "depthChartOrder": 1,
         "yearsExp": 2,
         "age": 23,
-        "trendingAdds24h": 61680
-      },
-      {
-        "id": "3161",
-        "name": "Carson Wentz",
-        "firstName": "Carson",
-        "lastName": "Wentz",
-        "position": "QB",
-        "team": "MIN",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "QB"
-        ],
-        "depthChartPosition": "QB",
-        "depthChartOrder": 2,
-        "yearsExp": 10,
-        "age": 33,
-        "trendingAdds24h": 58350
+        "trendingAdds24h": 39120
       },
       {
         "id": "96",
@@ -21299,6 +21301,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "6011",
+        "name": "Gardner Minshew II",
+        "firstName": "Gardner",
+        "lastName": "Minshew II",
+        "position": "QB",
+        "team": "ARI",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "QB"
+        ],
+        "depthChartPosition": "QB",
+        "depthChartOrder": 1,
+        "yearsExp": 7,
+        "age": 30,
+        "trendingAdds24h": 0
+      },
+      {
         "id": "13350",
         "name": "Joe Fagnano",
         "firstName": "Joe",
@@ -21336,7 +21358,7 @@
         "depthChartOrder": 2,
         "yearsExp": 2,
         "age": 25,
-        "trendingAdds24h": 103131
+        "trendingAdds24h": 53151
       },
       {
         "id": "9757",
@@ -21356,7 +21378,7 @@
         "depthChartOrder": 2,
         "yearsExp": 3,
         "age": 24,
-        "trendingAdds24h": 74234
+        "trendingAdds24h": 52730
       },
       {
         "id": "4663",
@@ -21376,13 +21398,13 @@
         "depthChartOrder": 2,
         "yearsExp": 9,
         "age": 31,
-        "trendingAdds24h": 55700
+        "trendingAdds24h": 43544
       },
       {
-        "id": "4718",
-        "name": "Dare Ogunbowale",
-        "firstName": "Dare",
-        "lastName": "Ogunbowale",
+        "id": "11199",
+        "name": "Emari Demercado",
+        "firstName": "Emari",
+        "lastName": "Demercado",
         "position": "RB",
         "team": "HOU",
         "status": "Active",
@@ -21394,8 +21416,8 @@
         ],
         "depthChartPosition": "RB",
         "depthChartOrder": 2,
-        "yearsExp": 9,
-        "age": 32,
+        "yearsExp": 3,
+        "age": 27,
         "trendingAdds24h": 0
       },
       {
@@ -21499,26 +21521,6 @@
         "trendingAdds24h": 0
       },
       {
-        "id": "6039",
-        "name": "Ty Johnson",
-        "firstName": "Ty",
-        "lastName": "Johnson",
-        "position": "RB",
-        "team": "BUF",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "RB"
-        ],
-        "depthChartPosition": "RB",
-        "depthChartOrder": 2,
-        "yearsExp": 7,
-        "age": 29,
-        "trendingAdds24h": 0
-      },
-      {
         "id": "8207",
         "name": "Tyler Goodson",
         "firstName": "Tyler",
@@ -21576,6 +21578,26 @@
         "depthChartOrder": 2,
         "yearsExp": 2,
         "age": 23,
+        "trendingAdds24h": 0
+      },
+      {
+        "id": "6039",
+        "name": "Ty Johnson",
+        "firstName": "Ty",
+        "lastName": "Johnson",
+        "position": "RB",
+        "team": "BUF",
+        "status": "Active",
+        "injuryStatus": "Questionable",
+        "injuryBodyPart": "Illness",
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "RB"
+        ],
+        "depthChartPosition": "RB",
+        "depthChartOrder": 2,
+        "yearsExp": 7,
+        "age": 29,
         "trendingAdds24h": 0
       },
       {
@@ -21639,6 +21661,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "4718",
+        "name": "Dare Ogunbowale",
+        "firstName": "Dare",
+        "lastName": "Ogunbowale",
+        "position": "RB",
+        "team": "HOU",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "RB"
+        ],
+        "depthChartPosition": "RB",
+        "depthChartOrder": 3,
+        "yearsExp": 9,
+        "age": 32,
+        "trendingAdds24h": 0
+      },
+      {
         "id": "6931",
         "name": "DeeJay Dallas",
         "firstName": "DeeJay",
@@ -21685,26 +21727,6 @@
         "lastName": "Wilson",
         "position": "RB",
         "team": "SEA",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "RB"
-        ],
-        "depthChartPosition": "RB",
-        "depthChartOrder": 3,
-        "yearsExp": 3,
-        "age": 27,
-        "trendingAdds24h": 0
-      },
-      {
-        "id": "11199",
-        "name": "Emari Demercado",
-        "firstName": "Emari",
-        "lastName": "Demercado",
-        "position": "RB",
-        "team": "HOU",
         "status": "Active",
         "injuryStatus": null,
         "injuryBodyPart": null,
@@ -21799,6 +21821,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "3286",
+        "name": "Demarcus Robinson",
+        "firstName": "Demarcus",
+        "lastName": "Robinson",
+        "position": "WR",
+        "team": "SF",
+        "status": "Inactive",
+        "injuryStatus": "IR",
+        "injuryBodyPart": "Ankle",
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "WR"
+        ],
+        "depthChartPosition": "LWR",
+        "depthChartOrder": 7,
+        "yearsExp": 10,
+        "age": 32,
+        "trendingAdds24h": 262332
+      },
+      {
         "id": "11783",
         "name": "Ryan Flournoy",
         "firstName": "Ryan",
@@ -21816,27 +21858,27 @@
         "depthChartOrder": 3,
         "yearsExp": 2,
         "age": 27,
-        "trendingAdds24h": 164424
+        "trendingAdds24h": 112040
       },
       {
-        "id": "8135",
-        "name": "Treylon Burks",
-        "firstName": "Treylon",
-        "lastName": "Burks",
+        "id": "13150",
+        "name": "Darius Cooper",
+        "firstName": "Darius",
+        "lastName": "Cooper",
         "position": "WR",
-        "team": "WAS",
+        "team": "PHI",
         "status": "Active",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Foot",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
         "injuryNotes": null,
         "fantasyPositions": [
           "WR"
         ],
         "depthChartPosition": "RWR",
-        "depthChartOrder": 3,
-        "yearsExp": 4,
-        "age": 26,
-        "trendingAdds24h": 103047
+        "depthChartOrder": 1,
+        "yearsExp": 1,
+        "age": 24,
+        "trendingAdds24h": 47061
       },
       {
         "id": "12540",
@@ -21856,7 +21898,27 @@
         "depthChartOrder": 4,
         "yearsExp": 1,
         "age": 24,
-        "trendingAdds24h": 56979
+        "trendingAdds24h": 34911
+      },
+      {
+        "id": "12542",
+        "name": "Efton Chism III",
+        "firstName": "Efton",
+        "lastName": "Chism III",
+        "position": "WR",
+        "team": "NE",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "WR"
+        ],
+        "depthChartPosition": "SWR",
+        "depthChartOrder": 2,
+        "yearsExp": 1,
+        "age": 25,
+        "trendingAdds24h": 0
       },
       {
         "id": "12499",
@@ -22199,26 +22261,6 @@
         "trendingAdds24h": 0
       },
       {
-        "id": "12542",
-        "name": "Efton Chism III",
-        "firstName": "Efton",
-        "lastName": "Chism III",
-        "position": "WR",
-        "team": "NE",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "WR"
-        ],
-        "depthChartPosition": "SWR",
-        "depthChartOrder": 3,
-        "yearsExp": 1,
-        "age": 25,
-        "trendingAdds24h": 0
-      },
-      {
         "id": "12535",
         "name": "Isaac TeSlaa",
         "firstName": "Isaac",
@@ -22279,26 +22321,6 @@
         "trendingAdds24h": 0
       },
       {
-        "id": "7049",
-        "name": "Jauan Jennings",
-        "firstName": "Jauan",
-        "lastName": "Jennings",
-        "position": "WR",
-        "team": "MIN",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "WR"
-        ],
-        "depthChartPosition": "SWR",
-        "depthChartOrder": 3,
-        "yearsExp": 6,
-        "age": 29,
-        "trendingAdds24h": 0
-      },
-      {
         "id": "6783",
         "name": "Jerry Jeudy",
         "firstName": "Jerry",
@@ -22339,6 +22361,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "12634",
+        "name": "Jordan Watkins",
+        "firstName": "Jordan",
+        "lastName": "Watkins",
+        "position": "WR",
+        "team": "SF",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "WR"
+        ],
+        "depthChartPosition": "RWR",
+        "depthChartOrder": 3,
+        "yearsExp": 1,
+        "age": 24,
+        "trendingAdds24h": 0
+      },
+      {
         "id": "3155",
         "name": "Laquon Treadwell",
         "firstName": "Laquon",
@@ -22376,26 +22418,6 @@
         "depthChartOrder": 3,
         "yearsExp": 3,
         "age": 24,
-        "trendingAdds24h": 0
-      },
-      {
-        "id": "6271",
-        "name": "Olamide Zaccheaus",
-        "firstName": "Olamide",
-        "lastName": "Zaccheaus",
-        "position": "WR",
-        "team": "ATL",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "WR"
-        ],
-        "depthChartPosition": "SWR",
-        "depthChartOrder": 3,
-        "yearsExp": 7,
-        "age": 29,
         "trendingAdds24h": 0
       },
       {
@@ -22519,6 +22541,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "13421",
+        "name": "Eli Raridon",
+        "firstName": "Eli",
+        "lastName": "Raridon",
+        "position": "TE",
+        "team": "NE",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "TE"
+        ],
+        "depthChartPosition": "TE",
+        "depthChartOrder": 1,
+        "yearsExp": 0,
+        "age": 22,
+        "trendingAdds24h": 0
+      },
+      {
         "id": "4066",
         "name": "Evan Engram",
         "firstName": "Evan",
@@ -22619,6 +22661,26 @@
         "trendingAdds24h": 0
       },
       {
+        "id": "12498",
+        "name": "Mason Taylor",
+        "firstName": "Mason",
+        "lastName": "Taylor",
+        "position": "TE",
+        "team": "NYJ",
+        "status": "Active",
+        "injuryStatus": null,
+        "injuryBodyPart": null,
+        "injuryNotes": null,
+        "fantasyPositions": [
+          "TE"
+        ],
+        "depthChartPosition": "TE",
+        "depthChartOrder": 1,
+        "yearsExp": 1,
+        "age": 22,
+        "trendingAdds24h": 0
+      },
+      {
         "id": "12493",
         "name": "Oronde Gadsden",
         "firstName": "Oronde",
@@ -22679,46 +22741,6 @@
         "trendingAdds24h": 0
       },
       {
-        "id": "12498",
-        "name": "Mason Taylor",
-        "firstName": "Mason",
-        "lastName": "Taylor",
-        "position": "TE",
-        "team": "NYJ",
-        "status": "Active",
-        "injuryStatus": "Questionable",
-        "injuryBodyPart": "Back",
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "TE"
-        ],
-        "depthChartPosition": "TE",
-        "depthChartOrder": 1,
-        "yearsExp": 1,
-        "age": 22,
-        "trendingAdds24h": 0
-      },
-      {
-        "id": "3202",
-        "name": "Austin Hooper",
-        "firstName": "Austin",
-        "lastName": "Hooper",
-        "position": "TE",
-        "team": "ATL",
-        "status": "Active",
-        "injuryStatus": null,
-        "injuryBodyPart": null,
-        "injuryNotes": null,
-        "fantasyPositions": [
-          "TE"
-        ],
-        "depthChartPosition": "TE",
-        "depthChartOrder": 2,
-        "yearsExp": 10,
-        "age": 32,
-        "trendingAdds24h": 0
-      },
-      {
         "id": "5189",
         "name": "Eddy Pineiro",
         "firstName": "Eddy",
@@ -22736,7 +22758,7 @@
         "depthChartOrder": 1,
         "yearsExp": 8,
         "age": 31,
-        "trendingAdds24h": 60666
+        "trendingAdds24h": 47475
       },
       {
         "id": "11261",
@@ -22888,7 +22910,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 506565
+        "trendingAdds24h": 374184
       },
       {
         "id": "NO",
@@ -22900,7 +22922,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 346035
+        "trendingAdds24h": 246710
       },
       {
         "id": "NYG",
@@ -22912,19 +22934,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 171564
-      },
-      {
-        "id": "CHI",
-        "name": "CHI D/ST",
-        "position": "DEF",
-        "team": "CHI",
-        "status": "Active",
-        "injuryStatus": null,
-        "fantasyPositions": [
-          "DEF"
-        ],
-        "trendingAdds24h": 87973
+        "trendingAdds24h": 100648
       },
       {
         "id": "SF",
@@ -22936,7 +22946,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 77664
+        "trendingAdds24h": 55086
       },
       {
         "id": "TB",
@@ -22948,7 +22958,7 @@
         "fantasyPositions": [
           "DEF"
         ],
-        "trendingAdds24h": 51670
+        "trendingAdds24h": 41095
       },
       {
         "id": "ARI",
@@ -22999,6 +23009,17 @@
         "name": "CAR D/ST",
         "position": "DEF",
         "team": "CAR",
+        "status": "Active",
+        "injuryStatus": null,
+        "fantasyPositions": [
+          "DEF"
+        ]
+      },
+      {
+        "id": "CLE",
+        "name": "CLE D/ST",
+        "position": "DEF",
+        "team": "CLE",
         "status": "Active",
         "injuryStatus": null,
         "fantasyPositions": [
